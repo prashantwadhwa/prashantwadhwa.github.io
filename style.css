@@ -137,6 +137,7 @@ nav ul li a:hover::after {
 .about-col-1 img {
   width: 100%;
   border-radius: 90%;
+  margin-top: 90px;
 }
 
 .about-col-2 {
@@ -609,6 +610,14 @@ nav .fa-solid {
     /* overflow: hidden; */
     
     
+  }
+
+  .btn.btn3 {
+    margin-left: 12%;
+  }
+
+  .btn.btn4 {
+    margin-left: 19%;
   }
 
 }
