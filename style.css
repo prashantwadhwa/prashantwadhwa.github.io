@@ -611,7 +611,11 @@ nav .fa-solid {
     
     
   }
+  .btn.btn3 {
+    margin-left: 12%;
+  }
 
+<<<<<<< HEAD
   .btn.btn3 {
     margin-left: 12%;
   }
@@ -620,6 +624,13 @@ nav .fa-solid {
     margin-left: 19%;
   }
 
+=======
+  .btn.btn4 {
+    margin-left: 19%;
+  }
+  
+  
+>>>>>>> origin/main
 }
 
 
